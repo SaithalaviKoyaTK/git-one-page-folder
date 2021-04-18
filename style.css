@@ -1,3 +1,29 @@
-body {
-    background-color:rgb(190, 233, 233)
+#main {
+  background-color: #1a23;
+  font-size: 20px;
+  padding-top: 10px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 10px;
+}
+#title {
+  font-family: helvetica;
+  color: #004d40;
+}
+#img-div {
+  padding-top: 50px;
+}
+#image {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#img-caption {
+  color: grey;
+}
+#tribute-info {
 }
